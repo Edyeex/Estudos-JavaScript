@@ -1,0 +1,9 @@
+var p1 = window.document.getElementsByTagName('p')[1];// Selecionando o primeiro paragrafo do HTML
+p1.style.color = 'blue';
+var corpo = window.document.body;
+corpo.style.background = 'black';
+// var botao = window.document.getElementById('botao');
+// botao.style.background = 'green'; 
+var botao = document.querySelector('div#botao'); // Se for DIV #, se for CLASSE .
+botao.style.background = 'green';
+botao.style.color = 'yellow'

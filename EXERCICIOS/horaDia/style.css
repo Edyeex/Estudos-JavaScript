@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: #00FF00;
+    font-family: "Courier New", monospace;font-family: "Courier New", monospace;
+}
+header {
+
+    text-align: center;
+    color: #00FF00;
+    font-family: "Courier New", monospace;
+    text-shadow: 0 5px 5px rgba(128, 255, 0, 0.308);
+}
+
+section {
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: #00FF00;
+    box-shadow: 6px 6px 12px rgba(128, 255, 0, 0.308);
+}
+
+footer {
+    color: #00ff004f;
+    font: italic 6pt Arial;
+    text-shadow: 0 5px 5px rgba(128, 255, 0, 0.308);;
+}

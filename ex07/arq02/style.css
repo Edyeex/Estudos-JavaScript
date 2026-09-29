@@ -1,0 +1,21 @@
+body{
+    font: normal 18pt Arial;
+    text-align: center;
+    background:burlywood;
+    color: white;
+    border-bottom: 20px;
+}
+input{
+    text-align: center;
+    font: bolder 18pt italic;
+    width: 100px;
+    color: white;
+    background: darksalmon;
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);
+    
+}
+
+#res{
+    margin-top: 20px;
+}

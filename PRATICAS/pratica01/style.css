@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+.titulo{
+    text-align: center;
+    color: chartreuse;
+    font: normal 18pt verdana;
+}
+.subtitulo{
+    text-align: center;
+    color: chartreuse;
+    font: normal 10pt Arial;
+    border: 3px solid green;
+    text-align: center;
+}
+
+.bloco1{
+    color: chartreuse;
+    text-align: left;
+    padding: 16px;
+    width: 600px;
+    left: 16px;
+    font: normal 12pt Arial;
+    border: 3px solid green;
+}
+
+.bloco2{
+    color: chartreuse;
+    text-align: left;
+    padding: 16px;
+    width: 600px;
+    left: 16px;
+    font: normal 12pt Arial;
+    position: absolute;
+    border: 3px solid green;
+    top: 52.5%;
+    left: 76.03%;
+    transform: translate(-50%, -50%);
+}
+
+.bloco3{
+    text-align: center;
+    color: chartreuse;
+    font: normal 12pt Arial;
+    border: 3px solid green;
+    text-align: center;
+}
