@@ -11,3 +11,4 @@ do {
     console.log(`Passo ${num}`);
     num++
 } while (num <= 6);
+
